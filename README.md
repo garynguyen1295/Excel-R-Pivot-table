@@ -14,6 +14,9 @@ The file `workbook.xlsx` contains data and my work for:
 
 * Aggregate functions in Excel
 
+
+`Employment survey` [folder](https://github.com/garynguyen1295/Excel-R-Pivot-table/tree/master/Employment%20survey) contains EXcel work on UC Berkeley's Employment survey
+
 ###### Useful resource
 
 [R package for pivot table](https://magesblog.com/post/2015-03-31-pivot-tables-with-r/)
